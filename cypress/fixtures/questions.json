@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "answers": [
+      { "text": "HyperText Markup Language", "isCorrect": true },
+      { "text": "Home Tool Markup Language",   "isCorrect": false },
+      { "text": "Hyperlinks and Text Markup",   "isCorrect": false },
+      { "text": "Hyperlinking Text Manual",     "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which tag is used to define an unordered list in HTML?",
+    "answers": [
+      { "text": "<ol>",  "isCorrect": false },
+      { "text": "<ul>",  "isCorrect": true },
+      { "text": "<li>",  "isCorrect": false },
+      { "text": "<list>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "In CSS, what does “flex” in display: flex do?",
+    "answers": [
+      { "text": "Enables flexible box layout",    "isCorrect": true },
+      { "text": "Makes items float left",         "isCorrect": false },
+      { "text": "Centers items horizontally",     "isCorrect": false },
+      { "text": "Applies background gradient",    "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which JavaScript method converts JSON text into an object?",
+    "answers": [
+      { "text": "JSON.parse()",   "isCorrect": true },
+      { "text": "JSON.stringify()", "isCorrect": false },
+      { "text": "JSON.toObject()",  "isCorrect": false },
+      { "text": "JSON.objectify()", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the keyword to declare a constant in JavaScript?",
+    "answers": [
+      { "text": "let",   "isCorrect": false },
+      { "text": "const", "isCorrect": true },
+      { "text": "var",   "isCorrect": false },
+      { "text": "static", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which array method creates a new array with the results of calling a function on every element?",
+    "answers": [
+      { "text": "filter()", "isCorrect": false },
+      { "text": "map()",    "isCorrect": true  },
+      { "text": "forEach()", "isCorrect": false },
+      { "text": "reduce()",  "isCorrect": false }
+    ]
+  },
+  {
+    "question": "In React, which hook lets you add state to a functional component?",
+    "answers": [
+      { "text": "useEffect()",  "isCorrect": false },
+      { "text": "useState()",   "isCorrect": true  },
+      { "text": "useContext()", "isCorrect": false },
+      { "text": "useReducer()", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does REST stand for in web APIs?",
+    "answers": [
+      { "text": "Representational State Transfer", "isCorrect": true  },
+      { "text": "Remote Execution Service Transport", "isCorrect": false },
+      { "text": "Running State Endpoint Test",      "isCorrect": false },
+      { "text": "Request Standard Transport",       "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which HTTP method is typically used to update a resource?",
+    "answers": [
+      { "text": "GET",    "isCorrect": false },
+      { "text": "POST",   "isCorrect": false },
+      { "text": "PUT",    "isCorrect": true  },
+      { "text": "DELETE", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "In Node.js, which global object represents the current module?",
+    "answers": [
+      { "text": "module.exports", "isCorrect": false },
+      { "text": "this",           "isCorrect": false },
+      { "text": "exports",        "isCorrect": false },
+      { "text": "module",         "isCorrect": true  }
+    ]
+  }
+]

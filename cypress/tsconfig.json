@@ -1,0 +1,12 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "composite": true,
+    "jsx": "react-jsx"      // ← explicitly enable JSX
+  },
+  "include": [
+    "component/**/*.ts",
+    "component/**/*.tsx",
+    "../client/src/components/**/*"
+  ]
+}
