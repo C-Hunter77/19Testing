@@ -22,3 +22,5 @@ npm run dev
 '''
 open a seperate terminal
 npx cypress open
+
+walkthrough video https://app.screencastify.com/v2/watch/pITFLmQf1OikjGXaxrmM
